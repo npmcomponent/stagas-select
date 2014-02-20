@@ -1,0 +1,13 @@
+{
+  "name": "stagas-select",
+  "description": "cross-browser input and contenteditable selection range",
+  "version": "0.1.0",
+  "keywords": [
+    "input",
+    "select",
+    "selection",
+    "range"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
